@@ -238,3 +238,6 @@ This repository serves as the official landing page for TotalEdit. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TotalEdit today!**
+
+---
+**Last updated:** 2026-09-08 13:13:56 UTC
